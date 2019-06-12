@@ -13,5 +13,10 @@ Jumper Wires.
 # Software Required:
 Arduino IDE
 
-# Please find attached pictures and screenshots
+
+# Steps:
+
+First upload the code to the ESP, after the code is successfully uploaded, then turn on the wifi on your end device, a wifi named Shivnano is created connect it by the password given in the code. After that , go to the web browser and type the IP 192.168.4.1 , a login page comes, login with the crediatials given in code, if the credentials are correct a page comes where you can control your led, else a pop up appears saying wrong credentials.
+
+Please find attached pictures and screenshots
 
