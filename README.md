@@ -1,3 +1,9 @@
+# IOT BASICS Minor Projects
+**This repository contains many minor IOT projects which were made in the basic module of workshop on AI and IOT by IIT Kanpur in collaboration with iSMRITI. 
+
+**The projects are explained below:
+
+
 # Led_control_using_Wifi
 LED control using ESP8266 via a secured website.
 
