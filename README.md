@@ -45,5 +45,14 @@ Please find attached pictures and screenshots
 
 > An app is made with the help of MIT App inventor with 5 buttons, red, blue, green, white and no color, the rgb glows according to the button clicked.
 
+# LED_Intensity_Slider_controller
+
+> An app is made with the help of MIT App inventor with sliders to control the intensity of leds and using the app, the intensity of leds are controlled.
+
+# Servo_motor_control_using_Slider
+
+>  A servo motor is controlled using a slider that is made on a webpage by the arduino code itself.
+
+
 
 
