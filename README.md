@@ -1,6 +1,17 @@
 # IOT BASICS Minor Projects
 **This repository contains many minor IOT projects which were made in the basic module of workshop on AI and IOT by IIT Kanpur in collaboration with iSMRITI.** 
 
+**ALL THE PROJECTS ARE JOINT EFFORTS OF:**
+>>Dharmvir Dharmacharya
+
+>>Shivangi Gupta
+
+>>Yashika Mittal
+
+>>Manas Sinha
+
+>>Abhishek Soni
+
 **Software Required:**
 Arduino IDE
 
