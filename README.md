@@ -70,3 +70,7 @@ Please find attached pictures and screenshots
 # Pulse Monitoring System
 
 > A pulse sensor is connected to NodeMCU and heartrate is depicted on thingSpeak website on a graph.
+
+# IR Sensor Entry and Exit(HEAD COUNTER)
+
+> With the help of 2 IR sensors we can keep a count of people entering the room and exiting at the same time.
