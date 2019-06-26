@@ -67,4 +67,6 @@ Please find attached pictures and screenshots
 
 > A relay control based on temprature shows on a secure webpage using button on webpage and sends alert using buzzer.
 
+# Pulse Monitoring System
 
+> A pulse sensor is connected to NodeMCU and heartrate is depicted on thingSpeak website on a graph.
