@@ -2,15 +2,15 @@
 **This repository contains many minor IOT projects which were made in the basic module of workshop on AI and IOT by IIT Kanpur in collaboration with iSMRITI.** 
 
 **ALL THE PROJECTS ARE JOINT EFFORTS OF:**
->>Dharmvir Dharmacharya
+- [Dharmvir Dharmacharya](https://github.com/DDharma)
 
->>Shivangi Gupta
+- [Shivangi Gupta](https://github.com/Shiv98)
 
->>Yashika Mittal
+- [Yashika Mittal](https://github.com/yashika0998)
 
->>Manas Sinha
+- [Manas Sinha](https://github.com/manassinha07)
 
->>Abhishek Soni
+- [Abhishek Soni](https://github.com/rockstarabhii)
 
 **Software Required:**
 Arduino IDE
