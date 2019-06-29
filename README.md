@@ -3,13 +3,9 @@
 
 **ALL THE PROJECTS ARE JOINT EFFORTS OF:**
 - [Dharmvir Dharmacharya](https://github.com/DDharma)
-
 - [Shivangi Gupta](https://github.com/Shiv98)
-
 - [Yashika Mittal](https://github.com/yashika0998)
-
 - [Manas Sinha](https://github.com/manassinha07)
-
 - [Abhishek Soni](https://github.com/rockstarabhii)
 
 **Software Required:**
